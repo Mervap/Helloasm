@@ -1,0 +1,62 @@
+#Cmake
+*CMakeFiles/*
+
+CMakeLists.txt.user
+hello
+add
+helloasm.cbp
+#In/output files
+cmake-build-debug/
+cmake-build-release/
+gtest/
+*.in
+*.out
+*.txt
+*.class
+*.jar
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.app
+
+#Idea
+.gradle/
+.idea/
+cmake-build-debug/
+obj/
+bin/
+build/
+out/
+
+#CodeBlocks
+*.cbp
+*.depend
+*.layout
